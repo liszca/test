@@ -1,10 +1,4 @@
+test
 
-    Look at where I'm at in my local project in Sublime.
-    Go to a browser, navigate to GitHub.
-    Find the repo.
-    Find the file.
-    Find the line(s).
-    Highlight the line(s).
-    Copy the URL, paste and send to colleague.
+print "cat
 
-sadasd
